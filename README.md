@@ -1,6 +1,6 @@
 # business-analytics
 
-Final project from Business Analytics with SQL and Python course offered by RMIT Online
+Final project from the Business Analytics with SQL and Python course offered by RMIT Online
 
 The course covers data modelling, forecasting using intro SQL and Python and is built with Australian partners using real-world data sets. At the end of this course you can create a project to build and apply a simple data analytics model to answer a business problem.
 
